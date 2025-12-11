@@ -52,6 +52,6 @@ Le tableau de bord inclut des KPI, des graphiques d’évolution des ventes par 
 
 ---
 
-## Auteur:Khoudiedia CISSOKO
-- Ton Nom ou Pseudo  
-- [Ton GitHub](https://github.com/ton-nom-utilisateur)
+## Auteur:
+- CISSOKO 
+
