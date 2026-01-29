@@ -45,9 +45,12 @@ Le tableau de bord inclut des KPI, des graphiques d’évolution des ventes par 
 
 ---
 
-## Capture d’écran du tableau de bord
+## Capture d’écran du tableau de bord avce les details
 
 <img width="1156" height="663" alt="image" src="https://github.com/user-attachments/assets/e3846677-34d4-4452-ba78-dfa579edeffb" />
+
+<img width="648" height="432" alt="image" src="https://github.com/user-attachments/assets/285b75ba-d757-4163-aa15-a8748f0b4fb3" />
+
 
 
 ---
